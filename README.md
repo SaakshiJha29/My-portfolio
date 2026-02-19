@@ -35,10 +35,6 @@ myportfolio/
 Clone the project:
 git clone https://github.com/YOUR-USERNAME/myportfolio.git
 
-## 🌐 Deployment
-
-**Live Site:**  
-👉 https://saakshi-portfolio-kappa.vercel.app/
 
 
 
