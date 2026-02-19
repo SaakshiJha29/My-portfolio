@@ -27,6 +27,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 import mcLogo from "./assets/tech_logo/mc.png";
 
 
+
 // Education Section Logo's
 import kvs_logo from "./assets/education_logo/kvs_logo.png";
 import lpu_logo from "./assets/education_logo/lpu_logo.png";
@@ -35,6 +36,7 @@ import lpu_logo from "./assets/education_logo/lpu_logo.png";
 import doodledesk from "./assets/work_logo/doodledesk.jpeg";
 import quote from "./assets/work_logo/quote.png";
 import eleganza from "./assets/work_logo/eleganza.png";
+import crypto from "./assets/work_logo/crypto.png";
 
 
 export const SkillsInfo = [
