@@ -129,6 +129,16 @@ export const SkillsInfo = [
     },
     {
       id: 1,
+      title: "Crypto Market Trend Dashboard",
+      description: "A modern cryptocurrency dashboard built using React and Chart.js that visualizes real-time market trends with interactive data representation. The application integrates the CoinGecko API to fetch live 7-day price data for multiple cryptocurrencies and dynamically updates the chart based on user selection. It features a fully custom-styled dropdown component, smooth light/dark theme switching, responsive design, and structured state management using React hooks. The project focuses on API integration, dynamic rendering, data visualization, and clean UI implementation.",
+      image: crypto, 
+      tags: ["React.js", "Chart.js", "JavaScript", "CSS", "API Integration"],
+      github: "https://github.com/SaakshiJha29/Cryptovista-react",
+      webapp: "https://crypto-alpha-drab.vercel.app/",
+
+    },
+    {
+      id: 2,
       title: "Eleganza Fashion E-Commerce Website",
       description:"A modern and responsive fashion e-commerce website designed to deliver a premium shopping experience. The platform features a dynamic hero carousel, categorized product collections for men, women, and kids, animated testimonials, and interactive UI elements like dark/light mode, newsletter popup, and stats modal with charts. Built with a clean Tailwind-based design and smooth JavaScript interactions, the project focuses on performance, visual appeal, and user-friendly navigation across all devices.",
       image: eleganza,
@@ -138,7 +148,7 @@ export const SkillsInfo = [
 
     },
     {
-      id: 2,
+      id: 3,
       title: "Random Quote Machine",
       description: "An interactive quote generator web application built as part of the freeCodeCamp Frontend Libraries certification. The app fetches and displays random quotes with dynamic styling, smooth transitions, and social sharing functionality. Users can generate new quotes instantly and share them on Twitter, while the responsive layout and clean UI ensure an engaging experience across devices. The project focuses on DOM manipulation, API handling, and interactive frontend design.",
       image: quote,
